@@ -42,7 +42,7 @@ img.profile-pic {
 img.company-logo {
 	height: 90% !important;
 	width: 90% !important;
-	object-fit: cover;
+	object-fit: contain;
 }
 
 .container {
