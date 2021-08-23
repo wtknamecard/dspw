@@ -151,21 +151,19 @@ img.company-logo {
 
 .text-name {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
-    font-weight: 200;
     color: #333333;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
     color: #575757;
     font-size: 12px;
 }
@@ -185,9 +183,7 @@ img.company-logo {
 	line-height: 48px;
 	font-family: 'Roboto', sans-serif;
 	color: white;
-	font-weight: 300;
-	font-weight: 300;
-    transition: 0.3s;
+	font-weight: 400;
 }
 
 @media screen and (max-width: 600px) {
@@ -208,3 +204,4 @@ img.company-logo {
     width: 80%;
   }
 }
+
