@@ -6,6 +6,19 @@
   <link href='https://fonts.googleapis.com/css?family=Lato:200,300,400,700' rel='stylesheet' type='text/css'>
 <link href="https://fonts.googleapis.com/css?family=Roboto:200,300" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <script>
+      // The function below will start the confirmation dialog
+      function confirmAction() {
+        let confirmAction = confirm("Are you sure to download and import this contact?");
+        if (confirmAction) {
+          alert("Download begins");
+            window.open("vcf/user.vcf");
+        } else {
+          alert("Download canceled");
+        }
+      }
+    </script>
 </head>
 
 <body>
@@ -114,9 +127,7 @@
 				<div class="col"></div>
 				<div class="col is-5">
 					<div class="button">
-						<a href="user.vcf">
-							<p class="button">Download</p>
-						</a>
+							<p class="button" onclick="confirmAction()">Download</p>
 					</div>
 				</div>
 				<div class="col"></div>
