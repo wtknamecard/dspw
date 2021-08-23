@@ -40,10 +40,9 @@ img.profile-pic {
 }
 
 img.company-logo {
-	height: 35%;
-	width: 35%;
-	object-fit: cover;
-	border-radius: 50%;
+	height: 90% !important;
+	width: 90% !important;
+	object-fit: contain;
 }
 
 .container {
