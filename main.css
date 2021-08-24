@@ -241,9 +241,3 @@ img.company-logo {
   text-decoration: none;
   cursor: pointer;
 }
-
-#warning-message { display: none; }
-   
-@media only screen and (orientation:landscape){
-        #warning-message { display:none; }
-    }
