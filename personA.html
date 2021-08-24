@@ -21,9 +21,24 @@
         }
       }
     </script>
+	
+	<style type="text/css">
+    #warning-message { display: none; }
+    @media only screen and (orientation:portrait){
+        #wrapper { display:none; }
+        #warning-message { display:block; }
+    }
+    @media only screen and (orientation:landscape){
+        #warning-message { display:none; }
+    }
+</style>
+	
 </head>
 
 <body>
+	<div id="wrapper">
+    <!-- your html for your website -->
+
 	<section class="bg-color-grey banner">
 		<div class="container">
 			<div class="row">
@@ -136,6 +151,11 @@
 			</div>
 		</div>
 	</section>
+		
+		</div>
+<div id="warning-message">
+    this website is only viewable in landscape mode
+</div>
 
 </body>
 
