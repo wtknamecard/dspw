@@ -241,3 +241,7 @@ img.company-logo {
   text-decoration: none;
   cursor: pointer;
 }
+
+@media screen and (orientation: landscape) {
+	overflow: visible;
+}
