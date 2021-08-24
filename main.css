@@ -242,6 +242,11 @@ img.company-logo {
   cursor: pointer;
 }
 
-@media screen and (orientation: landscape) {
-	overflow: visible;
+@media only screen and (orientation:landscape){
+    body {
+        height: auto;
+        width: auto;
+        margin: 0;
+        justify-content: center;
+    }
 }
