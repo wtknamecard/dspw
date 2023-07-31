@@ -149,22 +149,22 @@ img.company-logo {
 }
 
 .text-name {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-weight: bold;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     color: #333333;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     color: #575757;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .bottom {
