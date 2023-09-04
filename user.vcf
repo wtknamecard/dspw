@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Wee Yii;Ting;;;
-FN: Ting Wee Yii 
-ORG:Fro7en (Sing Chew Coldstorage Sdn. Bhd.);
-TITLE:Acting Operation Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:tingweeyii@gmail.com
-TEL;type=WORK;type=VOICE:+60 13 207 0919
+N:Hong Hin;Lim;;;
+FN: Lim Hong Hin 
+ORG:WTK Holdings Berhad;
+TITLE:Executive Director
+EMAIL;type=INTERNET;type=WORK;type=pref:limhhwtk@gmail.com
+TEL;type=WORK;type=VOICE:+60 19 889 9391
 item1.ADR;type=WORK;type=pref:;;Bangunan Hung Ann\,\nNo 1\, Jalan Bujang Suntong;;;96000;Sibu\, Sarawak\, Malaysia
 item1.X-ABADR:sg
-item2.URL;type=pref:https://fro7en.com/
+item2.URL;type=pref:https://wtkholdings.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
