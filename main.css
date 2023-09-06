@@ -108,6 +108,7 @@ img.company-logo {
 
 .row name-title-company {
 	overflow: hidden!important;
+	height: 250%;
 }
 
 .col.is-7 {
