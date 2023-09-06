@@ -106,6 +106,10 @@ img.company-logo {
 	height: 115%;
 }
 
+.row name-title-company {
+	overflow: hidden!important;
+}
+
 .col.is-7 {
 	flex: none;
 	width: 70%;
