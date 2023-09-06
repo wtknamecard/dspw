@@ -101,7 +101,7 @@ img.company-logo {
 
 .col.is-6 {
 	flex: none;
-	width: 60%;
+	width: 100%;
 }
 
 .col.is-7 {
