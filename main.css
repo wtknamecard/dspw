@@ -101,8 +101,9 @@ img.company-logo {
 
 .col.is-6 {
 	flex: none;
-	width: 80%;
+	width: 75%;
 	overflow: hidden;
+	height: 100%;
 }
 
 .col.is-7 {
@@ -154,7 +155,8 @@ img.company-logo {
     font-weight: bold;
     color: #333333;
     font-size: 20px;
-    width: 90%;
+    width: 75%;
+    overflow: hidden;
 }
 
 .text-title-company {
